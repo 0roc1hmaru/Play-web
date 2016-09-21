@@ -1,0 +1,19 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+
+.sprite-gold-star {
+    width: 28px;
+    height: 28px;
+    background-position: -5px -5px;
+}
+
+
+.sprite-gray-star {
+    width: 30px;
+    height: 28px;
+    background-position: -43px -5px;
+}

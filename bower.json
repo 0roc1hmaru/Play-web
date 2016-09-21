@@ -1,0 +1,11 @@
+{
+    "name": "playWeb",
+    "authors": [
+    "mr.y.v.kotov@gmail.com"
+  ],
+    "description": "",
+    "main": "index.hmtl",
+    "dependencies": {
+        "bootstrap": "^3.3.7"
+    }
+}
